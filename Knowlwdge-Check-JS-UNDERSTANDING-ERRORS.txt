@@ -1,0 +1,21 @@
+https://www.theodinproject.com/lessons/foundations-understanding-errors
+
+Knowledge Check: UNDERSTANDING ERRORS
+
+
+What are three reasons why you may see a TypeError?
+
+- The operand you passed to an operator is incompatible or the argument you 	passed to a function incompatible, essentially it is not the type that the function or operator expected.
+
+- When you try and modify a value that can't be changed.
+
+- When you try to use a value in an inappropriate.
+
+
+What is the key difference between an error and a warning?
+Errors are critical issues that will stop your code from running like type, reference and syntax errors. Warnings, on the other hand, are not critical issues that stop your code. They are informative cautions that suggest potential problems in your code but don't prevent its execution. Warnings are typically less severe than errors.
+
+
+
+What is one method you can use to resolve an error?
+AI, Google, Debugging, and console.log
